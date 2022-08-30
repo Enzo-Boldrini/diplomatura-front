@@ -1,0 +1,31 @@
+.bienvenidos {
+    width: 100%;
+    padding-right: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.testimonios {
+    width: 100%;
+}
+.testimonios {
+    font-size: 20px;
+    text-align: center;
+    padding: 16px;
+
+}
+
+.testimonio .cita {
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin: 12px 0;
+}
+
+.testimonio .autor {
+    font-size: 10px;
+    text-align: center;
+    display: block;
+    margin: 12px 0;
+}

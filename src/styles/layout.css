@@ -1,0 +1,65 @@
+.holder {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+h2 {
+    color: black;
+    font-weight: 400;
+
+}
+header {
+    background-color: #83b1ce;
+    padding: 16px 0;
+}
+
+header h1 {
+    color: black;
+    font-size: 40px;
+    font-weight: 100;
+    font-style: italic;
+    display: inline-block;
+    position: relative;
+    bottom: 35px;
+    margin-left: 10px;
+}
+
+footer {
+    background-color: #83b1ce;
+    clear: both;
+    color: black;
+    text-align: center;
+    padding: 50px 0;
+    margin-top: 20px;
+
+}
+
+nav {
+    background-color: #006593;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    flex-grow: 1;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 3px 6px;
+    display: block;
+    text-align: center;
+
+}
+
+nav ul li a:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+
