@@ -1,7 +1,7 @@
 
 h2 {
     color: black;
-    text-align: center;
+    /*text-align: center;*/
 }
 h3 {
     color: #006593;
@@ -13,7 +13,7 @@ h3 {
     padding: 26px;
     margin: 16px 0;
     display: flex;
-    gap: 100px;
+    gap: 32px;
 
 }
 .novedades p {
@@ -26,7 +26,7 @@ align-content:flex-start;
     border-radius: 13px;
     display:flex;
     max-width: 120px;
-    max-height: 120px;
+    /*max-height: 120px;*/
     align-content:flex-end;
     float: left;
     margin-right: 15px;
