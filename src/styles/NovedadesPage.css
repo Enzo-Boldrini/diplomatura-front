@@ -13,12 +13,12 @@ h3 {
     padding: 26px;
     margin: 16px 0;
     display: flex;
-    gap: 32px;
+    gap: 100px;
 
 }
 .novedades p {
 align-content:flex-start;
-text-align: left;
+/*text-align: left;*/
 
 
 }
