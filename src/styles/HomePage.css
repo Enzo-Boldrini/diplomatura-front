@@ -6,12 +6,11 @@
 }
 
 .testimonios {
-    width: 100%;
+    width: 50%;
 }
 .testimonios {
     font-size: 20px;
     text-align: center;
-    display: flex;
     padding: 16px;
 
 }
