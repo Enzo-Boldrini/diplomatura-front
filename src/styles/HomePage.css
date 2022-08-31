@@ -1,6 +1,8 @@
 h2{
     font-size: 20px;
     align-content: center;
+    margin: 12px 0;
+
 }
 
 .bienvenidos {
@@ -13,10 +15,12 @@ h2{
 .testimonios {
     width: 100%;
 }
-.testimonios h2 {
+.testimonios {
     font-size: 20px;
     padding: 16px;
     text-align: center;
+    margin: 12px 0;
+
 
 }
 
