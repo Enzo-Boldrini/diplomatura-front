@@ -6,9 +6,7 @@ const HomePage = (props) => {
     return (
         <main className='holder'>
             <div className='homeimg'>
-                <img src='./img/home/home1.png' alt='marketing digital'/>
-                <img src='./img/home/home2.png' alt='marketing digital'/>
-                
+                <img src='./img/home/home1.png' alt='marketing digital'/>                
             </div>
 
             <div className='columnas'>

@@ -11,6 +11,7 @@
 .testimonios {
     font-size: 20px;
     text-align: center;
+    display: flex;
     padding: 16px;
 
 }
